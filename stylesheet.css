@@ -1,7 +1,9 @@
-h2 {
-  color:red;
+.logo {
+  width:124px;
+  margin-top: 20px;
 }
- .title {
-   color:green;
-   font-size:60px;
- }
+.container {
+  width: 1170px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
